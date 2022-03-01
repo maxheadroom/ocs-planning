@@ -10,4 +10,15 @@ List of OS tools that we'd consider to include in the ocs
 | [BookWyrm](https://github.com/bookwyrm-social/bookwyrm) | Book Management, Social Network, Fediverse | Alternative to GoodReads |
 | [Matrix](https://matrix.org/) | Secure Messaging | Alternative to WhatsApp, Telegram, Signal |
 | [WordPress](https://wordpress.org) | Blogging, Content | |
-| [Excalidraw](https://github.com/excalidraw/excalidraw#documentation) | Drawing | Alternative to Miro Boards | 
+| [Ghost](https://ghost.org/) | Content, Social Media | Alternative to WordPress |
+| [Write Freely](https://github.com/writefreely/writefreely.git) | Writing, Content | |
+| [Excalidraw](https://github.com/excalidraw/excalidraw#documentation) | Drawing | Alternative to Miro Boards |
+| [Mattermost](https://mattermost.com/)| Collaboration | Alternative to Slack |
+
+## Infrastructure Components
+Components which are not directly used by the community users, but rather supporting the stack.
+
+| Name | Category | Notes |
+| ---- | -------- | ----- |
+| [Traefik](https://traefik.io/traefik/) | Proxy, Reverse Proxy | Makes managing the Frontend easy, terminates SSL |
+| [Keycloak](https://www.keycloak.org/) | AAA, Account Management, SSO | |
