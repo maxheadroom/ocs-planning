@@ -14,6 +14,9 @@ List of OS tools that we'd consider to include in the ocs
 | [Write Freely](https://github.com/writefreely/writefreely.git) | Writing, Content | |
 | [Excalidraw](https://github.com/excalidraw/excalidraw#documentation) | Drawing | Alternative to Miro Boards |
 | [Mattermost](https://mattermost.com/)| Collaboration | Alternative to Slack |
+| [MoodPoll](https://codeberg.org/cknoll/django-moodpoll) | Tool, Collaboration | Alternative for Doodle, but slightly different approach |
+| [JitsiMeet](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart) | Video Conference | Alternative to Zoom, Skype, WebEx etc. |
+| [BigBlueButton](https://docs.bigbluebutton.org/2.3/install.html) | Video Conference | Alternative to Zoom, Skype, WebEx etc. |
 
 ## Infrastructure Components
 Components which are not directly used by the community users, but rather supporting the stack.
